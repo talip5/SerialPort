@@ -1,0 +1,10 @@
+C:\Users\Furka\source\repos\SerialPort\obj\Debug\SerialPort.csproj.AssemblyReference.cache
+C:\Users\Furka\source\repos\SerialPort\obj\Debug\SerialPort.Form1.resources
+C:\Users\Furka\source\repos\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\Furka\source\repos\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.cache
+C:\Users\Furka\source\repos\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\Furka\source\repos\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\Furka\source\repos\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\Furka\source\repos\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\Furka\source\repos\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\Furka\source\repos\SerialPort\obj\Debug\SerialPort.pdb
